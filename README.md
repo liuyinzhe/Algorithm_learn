@@ -1,6 +1,7 @@
 # Algorithm_learn
 
 TODO
-- [ ] binary search
+- [ ] Binary Search
+- [ ] KMP
 - [ ] Hamming Distance
 - [x] dp
