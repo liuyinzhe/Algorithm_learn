@@ -5,3 +5,4 @@ TODO
 - [ ] KMP
 - [ ] Hamming Distance
 - [x] dp
+- [x] tSNE
