@@ -5,7 +5,8 @@ TODO
 - [x] Binary Search
 - [ ] KMP
 + bioinformatics
-- [ ] Hamming Distance
+- [ ] Edit Distance
+- [x] Hamming Distance
 - [x] Minimizer
 - [x] dp
 - [x] tSNE
