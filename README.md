@@ -1,8 +1,10 @@
 # Algorithm_learn
 
 TODO
-- [ ] Binary Search
++ basic_algorithm
+- [x] Binary Search
 - [ ] KMP
++ bioinformatics
 - [ ] Hamming Distance
 - [x] Minimizer
 - [x] dp
