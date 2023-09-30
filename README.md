@@ -3,7 +3,7 @@
 TODO
 + basic_algorithm
 - [x] Binary Search
-- [ ] KMP
+- [x] BM(Boyer-Moore)
 + bioinformatics
 - [ ] Edit Distance
 - [x] Hamming Distance
