@@ -4,8 +4,8 @@ TODO
 + basic_algorithm
 - [x] Binary Search
 - [x] BM(Boyer-Moore)
+- [x] Levenshtein Distance
 + bioinformatics
-- [ ] Edit Distance
 - [x] Hamming Distance
 - [x] Minimizer
 - [x] dp
