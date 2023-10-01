@@ -14,7 +14,7 @@ def hamming_distance_zip(string1, string2):
 # import Levenshtein
 
 # # 汉明距离 # 长度一致
-# Levenshtein.distance(string1, string2)
+# hamming_distance(string1, string2)
 
 # # 编辑距离 # 长度不一致
 # Levenshtein.distance(string1, string2)
