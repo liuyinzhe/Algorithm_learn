@@ -10,3 +10,4 @@ TODO
 - [x] Minimizer
 - [x] dp
 - [x] tSNE
+- [x] UMAP dimensionality reduction
