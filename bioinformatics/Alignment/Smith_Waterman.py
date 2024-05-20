@@ -13,7 +13,7 @@ def matrix(a, b, match_score=3, gap_cost=2):
         H[i, j] = max(match, delete, insert, 0)
     return H
   
- def traceback(H, b, b_='', old_i=0):
+def traceback(H, b, b_='', old_i=0):
     # flip H to get index of **last** occurrence of H.max() with np.argmax()
     H_flip = np.flip(np.flip(H, 0), 1)
     i_, j_ = np.unravel_index(H_flip.argmax(), H_flip.shape)
