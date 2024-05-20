@@ -4,7 +4,7 @@ import itertools
 import numpy as np
 
 def matrix(a, b, match_score=3, gap_cost=2):
-    H = np.zeros((len(a) + 1, len(b) + 1), np.int)
+    H = np.zeros((len(a) + 1, len(b) + 1), np.int64) #np.int32
 
     for i, j in itertools.product(range(1, H.shape[0]), range(1, H.shape[1])):
         match = H[i - 1, j - 1] + (match_score if a[i - 1] == b[j - 1] else - match_score)
